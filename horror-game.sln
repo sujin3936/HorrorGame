@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{95BF90AB-69C3-D968-A849-9BE396379045}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wooshii.HierarchyDecorator.Editor", "Wooshii.HierarchyDecorator.Editor.csproj", "{A630413A-4523-83FE-6030-F3A8CDF2A755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{05433FDA-53D8-A024-FA69-05717E926BD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95BF90AB-69C3-D968-A849-9BE396379045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95BF90AB-69C3-D968-A849-9BE396379045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95BF90AB-69C3-D968-A849-9BE396379045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95BF90AB-69C3-D968-A849-9BE396379045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A630413A-4523-83FE-6030-F3A8CDF2A755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A630413A-4523-83FE-6030-F3A8CDF2A755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A630413A-4523-83FE-6030-F3A8CDF2A755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A630413A-4523-83FE-6030-F3A8CDF2A755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05433FDA-53D8-A024-FA69-05717E926BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05433FDA-53D8-A024-FA69-05717E926BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05433FDA-53D8-A024-FA69-05717E926BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05433FDA-53D8-A024-FA69-05717E926BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
